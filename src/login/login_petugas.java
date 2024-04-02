@@ -17,8 +17,10 @@ import java.sql.Timestamp;
 import javax.swing.JOptionPane;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
-
-
+/**
+ *
+ * @author Hafizha
+ */
 
 public class login_petugas extends javax.swing.JFrame {
 Connection con;
